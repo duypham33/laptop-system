@@ -1,0 +1,15 @@
+.laptop-table{
+    width: 90%;
+    border-radius: 8px;
+    padding-bottom: 6px;
+}
+
+.laptop-table th{
+    padding: 6px;
+    border: 1px solid #226EC4;
+}
+
+.laptop-table td{
+    padding: 6px;
+    border: 1px solid #226EC4;
+}

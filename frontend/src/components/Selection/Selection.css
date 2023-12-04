@@ -1,0 +1,19 @@
+.my-selection{
+    display: flex;
+    flex-direction: column;
+    gap: 6px;
+    width: 30%;
+}
+
+.my-selection > span:first-child{
+    font-weight: 600;
+}
+
+.my-selection select{
+    width: 100%;
+    max-width: 80vw;
+    height: 36px;
+    font-size: 16px;
+    border-radius: 6px;
+    padding-left: 6px;
+}

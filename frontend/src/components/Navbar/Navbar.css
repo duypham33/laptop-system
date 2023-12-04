@@ -1,0 +1,23 @@
+.top-navbar{
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+    padding: 24px 48px;
+    background-color: #F9FAFA;
+    border-bottom: solid 1px #AAAEB2;
+    gap: 32px;
+}
+
+.top-navbar span{
+    font-weight: 500;
+    cursor: pointer;
+}
+
+.top-navbar span:hover{
+    font-weight: bold;
+}
+
+.top-navbar .active{
+    padding-bottom: 4px;
+    border-bottom: solid 2px #226EC4;
+}
